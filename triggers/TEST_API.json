@@ -15,5 +15,12 @@
         "full_document_before_change": true,
         "unordered": false
     },
-    "disabled": false
+    "disabled": false,
+    "event_processors": {
+        "FUNCTION": {
+            "config": {
+                "function_name": "sssss"
+            }
+        }
+    }
 }

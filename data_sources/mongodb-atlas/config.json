@@ -3,7 +3,13 @@
     "type": "mongodb-atlas",
     "config": {
         "clusterName": "Cluster0",
-        "namespacePreimageConfigs": [],
+        "namespacePreimageConfigs": [
+            {
+                "collectionName": "users",
+                "dbName": "trust",
+                "recordPreimages": true
+            }
+        ],
         "readPreference": "primary",
         "wireProtocolEnabled": false
     },
