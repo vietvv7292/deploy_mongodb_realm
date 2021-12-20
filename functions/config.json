@@ -1,9 +1,5 @@
 [
     {
-        "name": "2222",
-        "private": true
-    },
-    {
         "name": "Connect_mysql",
         "private": true
     },
@@ -14,5 +10,9 @@
     {
         "name": "sssss",
         "private": false
+    },
+    {
+        "name": "2222",
+        "private": true
     }
 ]
