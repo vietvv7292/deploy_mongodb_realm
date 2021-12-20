@@ -1,6 +1,0 @@
-{
-    "name": "rule 1",
-    "actions": [
-        "athena:GetQueryExecution"
-    ]
-}
