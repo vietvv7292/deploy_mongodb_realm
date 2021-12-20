@@ -1,0 +1,18 @@
+[
+    {
+        "name": "myFunc",
+        "private": true
+    },
+    {
+        "name": "Connect_mysql",
+        "private": true
+    },
+    {
+        "name": "2222",
+        "private": true
+    },
+    {
+        "name": "sssss",
+        "private": false
+    }
+]

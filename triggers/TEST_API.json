@@ -1,0 +1,19 @@
+{
+    "id": "6125bd353b5f99c3b155bce7",
+    "name": "TEST_API",
+    "type": "DATABASE",
+    "config": {
+        "operation_types": [
+            "INSERT"
+        ],
+        "database": "trust",
+        "collection": "users",
+        "service_name": "mongodb-atlas",
+        "match": {},
+        "project": {},
+        "full_document": true,
+        "full_document_before_change": true,
+        "unordered": false
+    },
+    "disabled": false
+}
