@@ -19,7 +19,7 @@
     "event_processors": {
         "FUNCTION": {
             "config": {
-                "function_name": "sssss"
+                "function_name": "myFunc"
             }
         }
     }
