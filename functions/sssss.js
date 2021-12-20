@@ -1,6 +1,7 @@
 exports = function() {
   console.log('123')
   console.log('567')
+  console.log('789')
   const http = context.services.get("myHttp");
   return http
     .get({ url: "https://www.example.com/users" })
